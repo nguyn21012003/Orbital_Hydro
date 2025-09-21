@@ -16,8 +16,7 @@ python -m venv env
 source .\env\Scripts\Activate.ps1
 ```
 
-
-Firstly, install the requirements.txt by using
+Next, install the requirements.txt by using
 
 ```bash
 pip install -r requirements.txt
