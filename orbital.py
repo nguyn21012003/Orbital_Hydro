@@ -5,7 +5,6 @@ from mpl_toolkits.mplot3d import Axes3D
 import matplotlib as cm
 from matplotlib.animation import FuncAnimation
 import csv
-from celluloid import Camera
 
 
 class Orbital:
