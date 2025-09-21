@@ -69,11 +69,11 @@ class Orbital:
 
 
 def main():
-    n = 4
-    l = 3
+    n = 3
+    l = 2
     m = 0
 
-    N = 50000
+    N = 500000
     orbital = Orbital(n, l, m)
     x, y, z, prob = orbital.draw(N)
 
